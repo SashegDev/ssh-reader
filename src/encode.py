@@ -1,5 +1,4 @@
 from sbib import arr
-import re
 def encode():
     f = open("tntd.dd", "w+")
     print("в шифре разрешены только буквы!")
